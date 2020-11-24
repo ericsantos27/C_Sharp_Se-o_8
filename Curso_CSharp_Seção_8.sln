@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30709.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seção_8_Aula_98_Projeto_Teste_Git", "Seção_8_Aula_98_Projeto_Teste_Git\Seção_8_Aula_98_Projeto_Teste_Git.csproj", "{0D42AEBF-7513-45B8-B0F6-03B47D09C0F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seção_8_Aula_98_Projeto_Teste_Git", "Seção_8_Aula_98_Projeto_Teste_Git\Seção_8_Aula_98_Projeto_Teste_Git.csproj", "{0D42AEBF-7513-45B8-B0F6-03B47D09C0F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seção_8_Aula_98_Projeto_Teste_Git_2", "Seção_8_Aula_98_Projeto_Teste_Git_2\Seção_8_Aula_98_Projeto_Teste_Git_2.csproj", "{316BE7D2-C02E-4290-8D6D-AA87FD0DEB01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0D42AEBF-7513-45B8-B0F6-03B47D09C0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D42AEBF-7513-45B8-B0F6-03B47D09C0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D42AEBF-7513-45B8-B0F6-03B47D09C0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316BE7D2-C02E-4290-8D6D-AA87FD0DEB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316BE7D2-C02E-4290-8D6D-AA87FD0DEB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316BE7D2-C02E-4290-8D6D-AA87FD0DEB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316BE7D2-C02E-4290-8D6D-AA87FD0DEB01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
