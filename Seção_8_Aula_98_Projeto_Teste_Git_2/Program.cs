@@ -29,6 +29,7 @@ namespace Seção_8_Aula_98_Projeto_Teste_Git_2
                 Console.WriteLine("Atendimento não preferencial - Sala Branca");
             }
             else
+
             {
                 Console.WriteLine("Digite 'SIM' ou 'NÃO' para doença infectuosa");
             }
